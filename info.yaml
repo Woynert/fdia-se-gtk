@@ -1,0 +1,921 @@
+---
+# input
+A:
+  title: Es semilla
+  desc: ''   
+
+B:
+  title: Es plantita
+  desc: ''
+
+C:
+  title: Es planta joven
+  desc: ''
+
+D:
+  title: Es planta adulta
+  desc: ''
+
+E:
+  title: Semilla color marron
+  desc: ''
+
+F:
+  title: Semilla inchada
+  desc: ''
+
+G:
+  title: Manchas color crema
+  desc: ''
+
+H:
+  title: Manchas blancas / blanquesinas
+  desc: ''
+
+I:
+  title: Manchas oscuras en hojas
+  desc: ''
+
+J:
+  title: Manchas ovaladas o rectangulares
+  desc: ''
+
+K:
+  title: Manchas color oliva
+  desc: ''
+
+L:
+  title: Hojas verdes
+  desc: ''
+
+M:
+  title: Hojas verde amarillento o amarillas
+  desc: ''
+
+O:
+  title: Hojas rigidas y quebradizas
+  desc: ''
+
+P:
+  title: Hojas secas
+  desc: ''
+
+Q:
+  title: Hojas de tamaño reducido
+  desc: ''
+
+R:
+  title: Folios plegados
+  desc: ''
+
+S:
+  title: Folios marron
+  desc: ''
+
+U:
+  title: Tronco marron
+  desc: ''
+
+V:
+  title: Raices marron o negras
+  desc: ''
+
+X:
+  title: Frutos con moho blanco
+  desc: ''
+
+Y:
+  title: Frutos color marron
+  desc: ''
+
+Z:
+  title: Fructificación de hongos en el tronco
+  desc: ''
+
+AA:
+  title: Terreno con mal drenage
+  desc: ''
+
+AB:
+  title: Usados productos a base de BHC-gama, cobre, o mercurio
+  desc: ''
+
+# no input
+
+BA:
+  title: Germen marron
+  desc: |-
+    Cuando germina la semilla y emerge el embrión , se
+    observa sobre la radícula una mancha de color cre-
+    ma que luego se oscurece y avanza hasta afectar
+    toda la raíz en emergencia causando la muerte de
+    la plántula. Sobre las lesiones comúnmente se for-
+    ma un moho de color verde-azul, debido a las fruc-
+    tificaciones de los hongos causantes de la afección:
+    Aspergillus sp. y Penicillium sp. Estos organismos
+    pueden resistir temperaturas altas (38-40 grados C.)
+    y humedad del 19 % . El germen marrón se previe-
+    ne manteniendo el contenido de humedad de la
+    semilla por debajo del 19 % , durante el período de
+    calentamiento. Se recomienda el tratamiento de la
+    semilla con una mezcla fungicida-bactericida (Thi-
+    ram más Estreptomicina).
+
+BB:
+  title: Pudricion de la semilla
+  desc: |-
+    Se presenta principalmente durante los períodos de
+    precalentamiento y germinación de la semilla. La
+    semilla se cubre de parches blancos que avanza has-
+    ta destruir el germen. Al colocar las semillas infec-
+    tadas en cámara húmeda, se forman las fructifica-
+    ciones del hongo que causa la pudrición : Schizo-
+    phyllum commune. Son abanicos pequeños de
+    color gris claro, con laminillas radiadas en su cara
+    inferior, de unos 2 a 3 cms. de ancho.
+    El patógeno se desarrolla especialmente sobre los
+    restos de pulpa que quedan sobre las semillas, cuan-
+    do éstas no se limpian adecuadamente. Al igual que
+    para el gérmen marrón, se recomienda el tratamien-
+    to de la semilla con sustancias protectoras, además
+    del lavado a fondo.
+
+BC:
+  title: Fitoxicidad por fertilizante o pesticida
+  desc: |-
+    Algunos productos que se emplean en el tratamien-
+    to de las semillas tienen efectos fitotóxicos. Se
+    mencionan aquellos a base de BHC-gama, cobre y
+    mercurio. Los síntomas de esta toxicidad son simi-
+    lares a los del germen marrón: la emergencia de la
+    radícula se retarda y aún se anula por completo.
+    Cuando ella se desarrolla, aparece de color marrón
+    e hinchada anormalmente. La ausencia de mohos
+    en caso de fitoxicidad, es característica.
+
+BD:
+  title: Manchas foliares y añublo de las hojas
+  desc: |
+    Varios hongos se encuentran asociados con las
+    manchas foliares que afectan las plantitas de vivero,
+    ocasionando el secamiento de gran parte de la superficie
+    de las hojas. Entre estos hongos se mencionan:
+    Botryodiplodia palmarum, Melanconium elaeidis,
+    Glomerella cingulata, Pestalotia y Pestalo-
+    tiopsís spp. y Curvalaria maculans.
+
+    El Botryodiplodia produce manchas translúcidas en
+    la punta o bordes de las hojas, de color marrón os-
+    curo, rodeadas por un halo o zona de transición de
+    color amarillento. Las manchas se secan y su centro
+    se torna de color gris. Las lesiones aumentan en
+    tamaño, se hacen confluentes y pueden causar el
+    añublo de la hojas. Sobre ellas aparecen pequeños
+    p u n t i t o s negros correspondientes a las fructifica-
+    ciones del hongo.
+
+    Las manchas causadas por Melanconium son similares
+    a las de Botryodiplodia, pero de color marrón
+    claro, rodeadas por un borde amarillo pálido. Al
+    secarse las lesiones, las áreas centrales de color gris
+    son más amplias y se observan sobre ellas p u n t i t o s
+    negros. Glomerella cingulata produce manchas alar
+    gadas en medio de las nervaduras, de color marrón
+    oscuro, rodeadas de bordes amarillos.
+    Generalmente el ataque de estos hongos es favore-
+    cido por humedad ambiental alta y deficiencias en
+    la fertilización. El espaciamiento adecuado de las
+    plantitas, la fertilización balanceada y la regulación
+    del riego y del sombrío, disminuye la incidencia de
+    las manchas foliares. Se recomienda la erradicación
+    de hojas afectadas y aspersiones con fungicidas
+    como Ziram o Captan al 2°/o (2 gramos en 100 gal.
+    de agua).
+
+    Las manchas causadas por Curvalaria maculans son
+    al principio de color amarillento, translúcidas y
+    tienden a hacerse irregularmente alargadas en me-
+    dio o a través de las nervaduras. Aparece un borde
+    amarillo que rodea un anillo de color gris, con
+    círculos concéntricos. Las manchas pueden exten-
+    derse a gran parte del área foliar, ocasionando su
+    secamiento. Se recomiendan aplicaciones de T h i -
+    ram, Bithiocarbamato o Captan, al 2°/o.
+
+    La mancha gris de las hojas, causada por Pestalo-
+    tiopsis sp. y/o Pestalotia sp., generalmente se pre-
+    senta en palmitas debilitadas por alguna condición
+    anormal de carácter nutricional o de déficit h í d r i -
+    co, como la deficiencia de magnesio y períodos
+    prolongados de sequía. Las manchas son en un
+    principio pequeñas, de color marrón púrpura. Lue-
+    go aumentan de tamaño y el centro toma una colo-
+    ración marrón claro y por ú l t i m o se tornan de
+    color gris ceniza, con d i m i n u t o s p u n t i t o s negros,
+    que corresponden a las acérvulos del hongo.
+
+BE:
+  title: Deficiencia nutricional
+  desc: |-
+    Como consecuencia de la baja fertilidad del suelo
+    que se usa en las bolsas de vivero y / o fallas en el
+    programa de fertilización, frecuentemente se pre-
+    sentan en las plantitas síntomas de deficiencias nu-
+    tricionales. Las más comunes son las de nitrógeno,
+    magnesio y boro.
+
+    El nitrógeno es esencial en la etapa de crecimiento.
+    Si este elemento falta, el tamaño de las hojas se
+    reduce, los f o l í o l o s son angostos, se enroscan hacia
+    arriba y t o m a n una coloración verde-pálido a ama
+    rillento, la cual se observa en t o d o el follaje. La
+    deficiencia de nitrógeno, además de estar asociada
+    con un suministro inadecuado de este elemento,
+    también se presenta como resultado del encharca
+    miento del suelo o por la adición de materia orgá-
+    nica sin descomponer.
+
+    La deficiencia de magnesio puede restringir el desa-
+    rrollo de las hojas y raíces. Los síntomas se presen-
+    tan en las hojas inferiores, que en un principio pier
+    den su brillo y t o m a n color verde oliva. Luego, la
+    parte central se torna amarillo pálido y al final, las
+    hojas muestran una coloración amarillo brillante
+    u n i f o r m e en la mayor parte de la lámina foliar, más
+    característica en su extremo terminal.
+
+    Puede presentarse en las puntas de las hojas un se-
+    camiento de color marrón, generalmente debido a
+    la invasión de los tejidos moribundos por hongos
+    como Pestalotia sp. Progresivamente, las hojas más
+    jóvenes toman un color amarillento. Porciones de
+    los folíolos sombreados por los superiores, perma-
+    necen de color verde. En algunos casos, la fertiliza
+    ción excesiva con nitrógeno o potasio, induce la
+    deficiencia de magnesio, debido a efectos antagóni-
+    cos. Generalmente se emplea sulfato de magnesio
+    como correctivo: un cuarto de onza por palma has
+    ta los ocho meses y media onza a mayor edad.
+    También puede aplicarse este producto en asper-
+    sión, en solución al 2 % , a intervalos de 3-4 días,
+    durante 2-3 semanas.
+
+
+BF:
+  title: Fitoxicidad por fertilizante o pesticida
+  desc: |-
+    Como consecuencia de la aplicación de fertilizantes
+    y pesticidas en dosis excesivas, con frecuencia se
+    presentan en las palmitas síntomas de f i t o t o x i c i -
+    dad. Los efectos f i t o t ó x i c o s aparecen en las puntas
+    y márgenes de las hojas c o m o áreas amarillentas
+    que mueren rápidamente y toman un color marrón
+    claro. El margen de las zonas necrosadas no es bien
+    d e f i n i d o como en las manchas causadas por hongos.
+    Las raíces quemadas por fertilizantes presentan una
+    coloración marrón o negra y su muerte se traduce
+    en amarillamiento y ulterior muerte de la plantita.
+    La aplicación directa de fertilizantes potásicos o
+    nitrogenados a las hojas, ocasiona una quemazón
+    severa. Es recomendable aplicar estos fertilizantes
+    en un círculo de diámetro adecuado para que no
+    queden en contacto directo de las hojas ni el tallo.
+    Los fungicidas a base de cobre y los órgano-mercu-
+    liares generalmente son f i t o t ó x i c o s para la palma
+    africana. Se recomienda el uso de otros productos
+    más seguros como T h i r a m , Captan o Carbamatos.
+    Algunos insecticidas aplicados en dosis excesivas
+    pueden ocasionar también efectos f i t o t ó x i c o s .
+
+
+BG:
+  title: Anormalidad de crecimiento
+  desc: |-
+    Con frecuencia pueden presentarse en las palmitas
+    condiciones anormales de crecimiento y desarrollo
+    de diferente origen: constitución genética, suelos
+    demasiados arenosos, períodos de sequía prolonga-
+    dos o humedad excesiva y fallas en la siembra de
+    la semilla germinada.
+    A veces las hojas no se expanden normalmente y se
+    presenta una constricción generalmente en la mitad
+    de la lámina. Las nervaduras tienden a ser demasia-
+    do prominentes y la hoja se vuelve rígida y quebra-
+    diza. Los f o l í o l o s pueden bifurcarse c o m o en las
+    hojas primarias.
+    3.3.En la hoja angosta, la lámina foliar es m u y estrecha
+    y erecta. Las hojas pueden enrollarse sobre sí mis-
+    mas. También pueden presentarse corrugaciones,
+    especialmente hacia la punta. En la hoja retorcida,
+    la lámina aparece parcialmente enrollada y vuelta
+    hacia abajo, como consecuencia de la siembra de la
+    semilla germinada en posición invertida.
+    Fitotoxicidad por fertilizantes y pesticidas
+    Como consecuencia de la aplicación de fertilizantes
+    y pesticidas en dosis excesivas, con frecuencia se
+    presentan en las palmitas síntomas de f i t o t o x i c i -
+    dad. Los efectos f i t o t ó x i c o s aparecen en las puntas
+    y márgenes de las hojas c o m o áreas amarillentas
+    que mueren rápidamente y toman un color marrón
+    claro. El margen de las zonas necrosadas no es bien
+    d e f i n i d o como en las manchas causadas por hongos.
+    Las raíces quemadas por fertilizantes presentan una
+    coloración marrón o negra y su muerte se traduce
+    en amarillamiento y ulterior muerte de la plantita.
+    La aplicación directa de fertilizantes potásicos o
+    nitrogenados a las hojas, ocasiona una quemazón
+    severa. Es recomendable aplicar estos fertilizantes
+    en un círculo de diámetro adecuado para que no
+    queden en contacto directo de las hojas ni el tallo.
+    Los fungicidas a base de cobre y los órgano-mercu-
+    liares generalmente son f i t o t ó x i c o s para la palma
+    africana. Se recomienda el uso de otros productos
+    más seguros como T h i r a m , Captan o Carbamatos.
+    Algunos insecticidas aplicados en dosis excesivas
+    pueden ocasionar también efectos f i t o t ó x i c o s .
+    En todos los casos anteriores, las hojas presentan
+    coloración verde normal.
+    La selección de las plantitas de vivero, antes de su
+    transplante al campo, es una medida m u y impor-
+    tante, a la cual debe dársele especial atención. El
+    éxito f u t u r o de la plantación dependerá de la clase
+    de material (plántulas) que se transplanten al sitio
+    d e f i n i t i v o en el campo.
+    Todas las plantitas que presenten los anteriores sín-
+    tomas descritos, deben eliminarse. Esta debe ser
+    una práctica de especial importancia en el estable-
+    cimiento de una plantación.
+
+BH:
+  title: Secamiento o pudricion de la flecha, mal de juventud, arco defoliado
+  desc: |-
+    El primer síntoma consiste en la aparición de una
+    lesión de color marrón rojizo con márgenes acuosos
+    en el borde de los f o l í o l o s de las hojas jóvenes que
+    aún permanecen plegados (flecha). Estos conservan
+    una posición erecta. A la decoloración de los f o l í o -
+    los sigue una necrosis que se expande y muchos de
+    ellos se desintegran antes de la abertura de la hoja.
+    Cuando ello ocurre, el raquis de las hojas adyacen-
+    tes a la flecha, afectadas parcialmente por la pudri-
+    ción de la flecha, pierden algunos de sus folíolos y
+    se curvan en f o r m a característica, síntoma éste re-
+    gistrado en la literatura como "arco d e f o l i a d o " .
+    Generalmente la enfermedad no avanza en su ata-
+    que y se circunscribe a los f o l í o l o s no expandidos
+    de palmas jóvenes, recién transplantadas.
+    A medida que otras hojas jóvenes se abren, también
+    son afectadas, así que la palma frecuentemente pre-
+    senta varias hojas curvadas alrededor de la flecha
+    central. Algunos aducen que la curvatura de las ho-
+    jas, por debajo de la flecha necrosada, probable-
+    mente puede ser inducida por una toxina o una
+    fitohormona.
+    Generalmente después de los 4 años, las palmas se
+    recuperan y las nuevas hojas que emergen aparecen
+    normales. Sin embargo, la afección ocasiona un re-
+    traso en el crecimiento de las palmas y alarma entre
+    los dueños de la plantación por sus efectos aparen-
+    temente devastadores.
+    Algunos aducen que la causa de esta afección se
+    debe a la composición genética del material de
+    siembra. Las palmas de origen Deli tienen mayor
+    predisposición que las de origen africano, aunque
+    puede presentarse en progenies provenientes de las
+    dos fuentes. La susceptibilidad a la afección parece
+    estar controlada genéticamente por un solo gene
+    recesivo, aunque la ocurrencia de un gene interme-
+    d i o puede enmascarar la susceptibilidad a ella.
+    Otros suponen causas fisiológicas, particularmente
+    en el aspecto de n u t r i c i ó n , c u y o efecto desaparece
+    a medida que crece la palma.
+    hacia la base. El crecimiento de las palmas se re-
+    trasa.
+    Este síndrome puede tener diferentes orígenes. En
+    algunos casos está asociado con exceso de agua en
+    el suelo (encharcamiento), como resultado de un
+    drenaje deficiente, con nivel freático superficial,
+    con la presencia de una capa de suelo compacto
+    (hard o clay pan), más o menos superficial, o con
+    un nivel bajo de fertilidad del suelo, si no existe un
+    programa adecuado y consistente de fertilización.
+    En Colombia se ha observado esta anomalía con
+    alguna frecuencia bajo cualquiera de las condicio-
+    nes anotadas. En una plantación plantada en suelos
+    de colinas, ácidos, con bajo contenido de nutrimen-
+    tos, sin fertilización adecuada, y con alta precipita-
+    ción, se presentó el amarillamiento de las hojas
+    inferiores en palmas de 4 años. Se efectuaron aná
+    lisis foliares de muestras tomadas de palmas con
+    hojas amarillas y de palmas, en el mismo lote, con
+    hojas verdes. Estos análisis se realizaron en los la-
+    boratorios del I R H O , en Francia, cuyos resultados
+    fueron los siguientes:
+    Se ha sugerido el exceso o desbalance de ciertos
+    nutrimentos, como altas aplicaciones de nitrógeno
+    y deficiencia de magnesio.
+    Con frecuencia se han aislado de los f o l í o l o s afec-
+    tados por la pudrición de la flecha, hongos c o m o
+    Fusarium spp. y Glomerella sp. En este caso se re-
+    comienda la remoción de las hojas afectadas, y pos-
+    terior aplicación de fungicidas protectores: Manco-
+    zeb, Oxicarboxin o Propineb.
+    En las dos muestras se observa una deficiencia im-
+    portante de nitrógeno, fósforo, potasio y azufre. El
+    contenido de boro es débil.
+    Es conveniente anotar que la pudrición de la flecha
+    se ha presentado en todos los países Latinoameri-
+    canos y en regiones recientemente vinculadas al
+    cultivo de la palma africana de aceite. Por lo ante-
+    rior, es m u y conveniente estudiar el origen del ma-
+    terial plantado y las condiciones ecológicas en las
+    cuales se han establecido los cultivos.Las deficiencias son mayores en las palmas que
+    mostraban amarillamiento de las hojas inferiores.
+    La deficiencia de Magnesio en estas palmas es no-
+    table.
+    4.2. Amarillamiento de las hojas inferioresUrea
+    El amarillamiento de las hojas inferiores de palmas
+    jóvenes (3 a 5 años) se presenta con alguna frecuen-
+    cia en plantaciones de palma aceitera. Se manifiesta
+    por un amarillamiento de las hojas bajeras, que se
+    inicia en la ápice de los folíolos y avanza hacia sus
+    bases. Al principio es tenue, pero luego se intensifi-
+    ca y el color amarillo brillante cubre toda la lámina
+    foliar. Los folíolos comienzan a secarse de la punta
+    12
+    Con base en los anteriores resultados, se sugirieron
+    las siguientes dosis de fertilizantes por palma y por
+
+AC:
+  title: Sindrome de amarillamiento de las hojas inferiores
+  desc: |-
+    4.2. Amarillamiento de las hojas inferioresUrea
+    El amarillamiento de las hojas inferiores de palmas
+    jóvenes (3 a 5 años) se presenta con alguna frecuen-
+    cia en plantaciones de palma aceitera. Se manifiesta
+    por un amarillamiento de las hojas bajeras, que se
+    inicia en la ápice de los folíolos y avanza hacia sus
+    bases. Al principio es tenue, pero luego se intensifi-
+    ca y el color amarillo brillante cubre toda la lámina
+    foliar. Los folíolos comienzan a secarse de la punta
+    hacia la base. El crecimiento de las palmas se re-
+    trasa.
+    Este síndrome puede tener diferentes orígenes. En
+    algunos casos está asociado con exceso de agua en
+    el suelo (encharcamiento), como resultado de un
+    drenaje deficiente, con nivel freático superficial,
+    con la presencia de una capa de suelo compacto
+    (hard o clay pan), más o menos superficial, o con
+    un nivel bajo de fertilidad del suelo, si no existe un
+    programa adecuado y consistente de fertilización.
+    En Colombia se ha observado esta anomalía con
+
+BJ:
+  title: Amarillamiento letal
+  desc: |-
+    Esta enfermedad parece ser una variante de la pu-
+    drición letal de la flecha y del cogollo. En C o l o m -
+    bia, en la zona de Tumaco se describe c o m o amari-
+    llamiento sorpresivo de las hojas jóvenes y en el
+    Ecuador, como pudrición de la flecha y del cogollo.
+    La enfermedad se presenta en palmas jóvenes, de
+    2,5 a 5 años de edad y se registra c o m o m u y viru-
+    lenta pues irremediablemente ocasiona su muerte.
+    Se manifiesta en un p r i n c i p i o por un ligero amari-
+    llamiento de las hojas jóvenes del tercio superior.
+    Este amarillamiento se hace progresivamente exten-
+    sivo a todos los folíolos, los cuales comienzan a
+    secarse de la punta hacia la base y de los bordes
+    hacia el centro.
+    En este estado, una o varias flechas pueden estar
+    total o parcialmente afectadas por una pudrición
+    húmeda de color crema a pardo.
+    Las hojas inferiores, medias y basales conservan su
+    aspecto y color verde normales. Los f r u t o s en de-
+    sarrollo no son afectados ni tampoco las raíces.
+    Al final del ataque, los tejidos basales de las flechas
+    se pudren totalmente, t o m a n una coloración blan-
+    co-amarillenta y olor f é t i d o . Al hacer un corte
+    longitudinal del t r o n c o se observa el avance de la
+    pudrición que afecta el meristemo apical, ocasio-
+    nando su daño irreversible y la muerte de la palma,
+    en un período que oscila entre 4 a 8 meses. Su in-
+    cidencia puede ser baja (0.8°/o) a 2 . 8 % .
+    Las medidas de c o n t r o l consistentes en cirugía de
+    los tejidos afectados y aplicación de mezclas fungí-
+    insecticidas, no han dado resultados promisorios.
+    Cuando se presentan los síntomas iniciales, además
+    de la remoción de los tejidos afectados, algunos
+    recomiendan la aplicación de fungicidas c o m o Vita-
+    vax - T h i r a m al 0.4°/o o Trímangol al 0 . 7 % . Se
+    recomienda además adicionar el insecticida Thio-
+    dan al 0 . 4 % .
+    Las palmas muertas deben ser erradicadas a la ma-
+    y o r brevedad posible.
+
+
+BK:
+  title: Marchitez sorpresiva
+  desc: |-
+    En Colombia desde hace más de 15 años, se han
+    presentado en la palma africana diferentes casos de
+    marchitez. Algunos de ellos no ocasionan la muerte
+    de las palmas y pueden estar asociadas con defi-
+    ciencias nutricionales y falta de agua. En otros
+    casos la afección es de carácter severo, los síntomas
+    irreversibles e irremediablemente las palmas afecta-
+    das mueren. En el primer caso de origen abiótico,
+    la anomalía podría designarse con el nombre de
+    "marchitez sorpresiva". En el segundo, la enferme-
+    dad de carácter mortal ha recibido el nombre de
+    "marchitez sorpresiva", debido a que su evolución
+    es m u y rápida. Esta puede afectar palmas que ini-
+    cian la producción de racimos, o palmas de mayor
+    edad.
+    Dos clases de marchitez sorpresiva se han registrado
+    en Colombia: una asociada con el ataque de pro-
+    tozoarios flagelados del género Phytomonas (Try-
+    panosomatidae), que también afectan el cocotero
+    produciendo la enfermedad denominada marchitez
+    o " h a r t r o t " , y la otra de sintomatología similar,
+    pero de etiología desconocida. Los síntomas exter-
+    nos en ambos casos de marchitez sorpresiva son
+    bastantes similares y difíciles de diferenciar en el
+    campo.
+    Para ambas enfermedades, los síntomas se manifies-
+    tan cuando la palma pasa de su estado vegetativo al
+    reproductivo (3 a 5 años de edad).
+    Los primeros síntomas aparecen en las hojas de la
+    base de la corona y avanzan hacia los rangos 9 a 17
+    en unos 15 a 20 días. Luego la evolución es más
+    lenta, pero la palma muere generalmente en menos
+    de 60 días.
+    El síntoma inicial se manifiesta por una coloración
+    marrón-rojiza en las puntas de los f o l í o l o s de las
+    hojas maduras. Esta decoloración de los tejidos
+    avanza del ápice hacia la base y de los bordes hacia
+    el centro. Los f o l í o l o s presentan, además del color
+    marrón-rojizo, un amarillamiento generalizado en
+    toda la lámina foliar y comienzan luego a secarse,
+    de la punta hacia la base.
+    Estos síntomas avanzan hacia las hojas superiores
+    y al final, t o d o el follaje de la palma se seca.
+    4.5. Marchitez sorpresiva
+    En Colombia desde hace más de 15 años, se han
+    presentado en la palma africana diferentes casos de
+    marchitez. Algunos de ellos no ocasionan la muerte
+    de las palmas y pueden estar asociadas con defi-
+    ciencias nutricionales y falta de agua. En otros
+    casos la afección es de carácter severo, los síntomas
+    irreversibles e irremediablemente las palmas afecta-
+    das mueren. En el primer caso de origen abiótico,
+    la anomalía podría designarse con el nombre de
+    "marchitez sorpresiva". En el segundo, la enferme-
+    dad de carácter mortal ha recibido el nombre de
+    "marchitez sorpresiva", debido a que su evolución
+    es m u y rápida. Esta puede afectar palmas que ini-
+    cian la producción de racimos, o palmas de mayor
+    edad.
+    Dos clases de marchitez sorpresiva se han registrado
+    en Colombia: una asociada con el ataque de pro-
+    tozoarios flagelados del género Phytomonas (Try-
+    panosomatidae), que también afectan el cocotero
+    produciendo la enfermedad denominada marchitez
+    o " h a r t r o t " , y la otra de sintomatología similar,
+    pero de etiología desconocida. Los síntomas exter-
+    Revista Palmas Volumen 11 No. 4. 1990
+    En palmas con síntomas iniciales ocurre además
+    una pérdida del brillo normal de los frutos y seca-
+    miento final de los racimos. También hay aborto
+    de inflorescencias.
+    Al t i e m p o que aparece la decoloración y secamien-
+    to del follaje, las raíces son destruidas por una
+    pudricíón, que avanza de las cuaternarias a las
+    primarias.
+    En el caso de la marchitez sorpresiva de la palma
+    africana y del cocotero, asociada con el protozoa-
+    rio flagelado Phytomonas, se manifiestan los sínto-
+    mas descritos anteriormente. Sin embargo, presen-
+    ta otros m u y particulares. Las hojas juveniles de la
+    flecha se pudren y-fácilmente se desgajan o separan
+    del meristemo apical. Comúnmente la pudricíón
+    tiene o l o r f é t i d o , debido quizás a la proliferación
+    de bacterias saprófitas en los tejidos del cogollo.
+    Además, se presenta p u d r i c i ó n de los racimos que
+    ocasiona la caída de los f r u t o s inmaduros y espe-
+    cialmente en la palma de coco, hay pudrición de
+    las inflorescencias. Al observar los tejidos del esti-
+    pe, particularmente en la zona meristemática, éstos
+    aparecen decolorados, con tonalidades ligeramente
+    rosadas. Luego sigue la necrosis. Este es un síntoma
+    m u y característico que diferencia esta enfermedad
+    del o t r o t i p o de marchitez sorpresiva.
+    El protozoario Phytomonas es fácilmente detecta-
+    do al observar al microscopio de luz, savia de las
+    palmas enfermas, especialmente si la muestra se
+    t o m a en zonas cercanas a las áreas necrosadas en la
+    inflorescencia o en las raíces. Son abundantes en el
+    tejido meristemático que aún no se ha necrosado.
+    En Colombia, la marchitez sorpresiva de la palma
+    africana, causada por Phytomonas, se ha registrado
+    en varias regiones del c u l t i v o : Meta, Santander,
+    Cesar y Nariño. En esta ú l t i m a zona también se ha
+    encontrado en cocotero. También se ha presentado
+    en otros países: Ecuador, Perú, Venezuela, Suri-
+    nam, Guyana Francesa, Honduras y Brasil.
+    Palma Africana, expuesto al área de mayor inciden-
+    cia de este t i p o de marchitez, también fue suscepti-
+    ble a ella.
+    La presencia de gramíneas como cobertura de la
+    plantación y la del insecto chupador Haplaxius
+    pallidus C a l . * , se asociaron con la incidencia de
+    esta enfermedad. El insecto cumple su ciclo de vi-
+    da, en el estado ninfal, en las raíces de gramíneas
+    y c o m o adulto visita especies de palma.
+    En general, la incidencia de este t i p o de marchitez
+    no es muy alta gracias a las medidas de c o n t r o l
+    aplicadas: erradicación de palmas enfermas, aplica-
+    ción de insecticidas al suelo y en el área del plateo
+    en palmas sanas, cercanas a las enfermas.
+    El lepidóptero Sagalasa valida se ha registrado co-
+    mo agente transmisor y su c o n t r o l preventivo se ha
+    realizado mediante aplicaciones de Endrin al 1°/o,
+    en dosis de 2 litros de solución por palma.
+    En el Ecuador parece m u y probable que un chin-
+    che Heteroptera Pentatomidae del género Uncus
+    Stal. fuera el vector de la enfermedad. Este mismo
+    insecto se ha encontrado c o m o vector del "hart-
+    r o t " del cocotero y se ha registrado también en
+    Surinam, Guyana Francesa y Brasil.
+    Hasta ahora no se ha logrado reproducir esta enfer-
+    medad mediante la inoculación de jugos de distin-
+    tos órganos, de palmas afectadas en palmas sanas.
+    El o t r o t i p o de marchitez sorpresiva estudiado en
+    Colombia se presentó en el valle del río Zulia y des-
+    t r u y ó cerca de 2000 has. de una plantación de pal-
+    ma africana.
+    Los síntomas son similares a los de la misma enfer-
+    medad asociada con Phytomonas, pero con algunas
+    diferencias. Se presenta una suspensión en el nor-
+    mal desarrollo de las hojas jóvenes. Las flechas se
+    tornan de color verde pálido, se compactan y no
+    abren, pero no se pudren.
+    Al observar los tejidos internos del estipe y su área
+    meristemática, no se encuentra ninguan alteración
+    evidente en su coloración normal y no hay decolo-
+    ración ni necrosis.
+    Se encontró que el h í b r i d o interespecífico Noli x
+    Palma Africana, expuesto al área de mayor inciden-
+    cia de este t i p o de marchitez, también fue suscepti-
+    ble a ella.
+    La presencia de gramíneas como cobertura de la
+    plantación y la del insecto chupador Haplaxius
+    pallidus C a l . * , se asociaron con la incidencia de
+    esta enfermedad. El insecto cumple su ciclo de vi-
+    da, en el estado ninfal, en las raíces de gramíneas
+    y c o m o adulto visita especies de palma.
+    Ensayos de transmisión con estos insectos expues-
+    tos a alimentación en palmas enfermas, permitieron
+    establecer que éste era el vector de un agente pató-
+    geno que adquiría durante su alimentación en pal-
+    mas enfermas y, después de un período de incuba-
+    ción en el insecto, podía ser t r a n s m i t i d o a palmas
+    sanas. Se encontró que palmas en su fase vegetativa
+    no son apetecidas por el insecto.
+    Los estudios encaminados a identificar el agente
+    causal de este t i p o de marchitez sorpresiva, inclu-
+    yendo observaciones preliminares de microscopía
+    electrónica, no permitieron identificar el agente
+    causal de la enfermedad. Por esta razón se la ha
+    denominado en Colombia " m a r c h i t e z sorpresiva de
+    etiología desconocida".
+    De acuerdo con lo anterior, bien puede indicarse
+    que existen evidencias de la existencia de dos tipos
+    de marchitez sorpresiva: una causada por el proto-
+    zoario Phytomonas, clasificado dentro de la es-
+    pecie P. staheli y otra de etiología desconocida,
+    con síntomas diferentes.
+
+
+T:
+  title: Flechas podridas
+  desc: ''
+
+BM:
+  title: Pudrición letal de la flecha y el cogollo
+  desc: |-
+    Esta grave afección se ha presentado en Colombia
+    Ecuador, Panamá, Surinam y Costa Rica. En una
+    plantación localizada en la región de T u r b o (Co-
+    lombia), destruyó más de 49.000 palmas en 2 años;
+    Inicialmente se presentó en palmas de 6 a 7 años de
+    edad, pero progresivamente fueron atacadas palmas
+    más jóvenes.
+    Al igual que en el caso de la marchitez sorpresiva,
+    existe una diferencia en la sintomatología entre la
+    enfermedad, tal como se ha presentado en Colom-
+    bia, y la registrada en Surinam.
+    En Colombia, en donde también fue muy severa en
+    plantaciones localizadas en la zona del Bajo Calima
+    (Buenaventura), el primer síntoma es la pudrición
+    de las flechas, que se presenta en toda su l o n g i t u d .
+    Estas pueden ser fácilmente retiradas. El tejido me-
+    ristemático de su base toma una coloración marrón
+    oscuro y presenta una pudrición húmeda, fétida.
+    La flecha podrida se desgaja y cuelga en medio de
+    las hojas centrales de la corona.
+    Las hojas de la corona toman una coloración verde-
+    amarillenta y se secan progresivamente. Puede pa-
+    sar un año entre la aparición de los primeros sínto-
+    mas y la muerte de la palma, probablemente por-
+    que las raíces permanecen sanas por largo tiempo.
+
+BN:
+  title: Añublo o secamiento de las hojas
+  desc: |-
+    5.2. Añublo o secamiento de las hojas
+    Esta enfermedad se ha registrado en todos los paí-
+    ses productores de palma africana, pero en América
+    Central y del Sur ha limitado en f o r m a particular
+    los rendimientos debido a la severidad de su ata-
+    que. Por primera vez se registró en Colombia en la
+    región del Magdalena Medio, en 1968. Luego se
+    presentó en otras zonas del cultivo. En una de estas
+    plantaciones, la producción bajó de un promedio
+    de 18 a 20 t o n . de racimos, a 12 15 ton./rac./ha.,
+    con una reducción hasta el 27 y 36°/o en palmas
+    más jóvenes severamente afectadas.
+    T a n t o la palma africana como el noli (E. oleífera)
+    y los híbridos de estas dos especies son susceptibles
+    al secamiento de las hojas.
+
+BP:
+  title: Pudrición de las raices y de la base del tronco
+  desc: |-
+    Frecuentemente, bajo condiciones de mal drenaje
+    debido particularmente a la presencia de una capa
+    más o menos profunda de suelo compactado, se
+    presenta la pudrición de las raíces y de la base del
+    t r o n c o . Las raíces debilitadas por estas condiciones
+    son invadidas por patógenos generalmente débiles,
+    presentes en el suelo, como Thielaviopsis paradoxa.
+    Las raíces se pudren, tomando una coloración ma-
+    rrón oscura y la pudrición avanza hasta su p u n t o de
+    inserción en el tronco. Los tejidos de la base del
+    " b u l b o " toman entonces un color marrón claro,
+    que se tornan posteriormente en marrón oscuro,
+    con tintes azulosos.
+    Revista Palmas Volumen 11 No. 4. 1990
+    Es causada por Ganoderma lucidum y G. zonatum,
+    que aunque producen sus fructificaciones, al princi-
+    pio en forma de pequeños botones de color blanco,
+    cerca al suelo, en la base del t r o n c o , y que luego
+    crecen hasta semejar "orejas de p a l o " . Estas son
+    proyecciones semicirculares con la superficie supe-
+    rior brillante, de apariencia barnizada, de color car-
+    melita a marrón oscuro, con el borde blanco. La
+    cara inferior es de color ceniciento, perforada por
+    d i m i n u t o s poros.
+    Un buen número de flechas permanecen cerradas.
+    Las hojas bajeras se tornan amarillentas y se secan.
+    El secamiento progresa paulatinamente hacia las
+    hojas superiores. Las hojas secas se desgajan, que-
+    dando suspendidas alrededor del t r o n c o en su base
+    y los tejidos internos t o m a n una coloración marrón
+    claro, demarcados por bandas oscuras irregulares.
+    Los tejidos invadidos se descomponen y en la base
+    del estipe puede aparecer cavidades más o menos
+    Los síntomas externos se manifiestan por un amari-
+    llamiento de las hojas de la base de la corona, de-
+    tención en el crecimiento, pudrición de los racimos
+    y aborto de inflorescencias. Las hojas tiernas no
+    expanden sus f o l í o l o s y la palma presenta un aspec-
+    to moribundo.
+    Se recomienda, para prevenir la enfermedad, el me-
+    joramiento del drenaje a fin de facilitar la evacua-
+    ción rápida y eficiente del exceso de agua en el
+    suelo.
+
+BQ:
+  title: Pudrición de los racimos
+  desc: |-
+    La pudrición de los f r u t o s y racimos causada por el
+    hongo Marasmius sp. es más frecuente en palmas de
+    3 9 años de edad y bajo condiciones de alta hume-
+    dad ambiental, como consecuencia de períodos
+    prolongados de lluvias. En la mayoría de los casos
+    está asociada con una polinización deficiente, con
+    la presencia de detritus de racimos y de inflorescen-
+    cias que no se retiran de las palmas.
+    Sobre los frutos enfermos aparecen un m o h o de
+    color blanco que los cubre casi en su totalidad. Los
+    frutos toman una coloración marrón, se vuelven
+    blandos y al final de color negro, con el mesocar-
+    pió descompuesto casi en su t o t a l i d a d . Posterior-
+    mente el hongo produce sus fructificaciones que
+    emergen en gran número, en f o r m a de pequeños
+    sombreritos con surcos de laminillas radiales en su
+    cara inferior.
+    Los racimos infectados deben retirarse de las pal-
+    mas, así como también los restos de inflorescen-
+    cias, mediante podas sanitarias regulares. Cuando
+    sea necesario, debe efectuarse la polinización asis-
+    tida para conseguir un mejor cuajamiento de los
+    frutos, procurando una disminución del exceso de
+    humedad ambiental, mediante un c o n t r o l de male-
+    zas y mejoramiento de las condiciones de drenaje.
+    rrón picudo o gualpa Rhynchophorus palmarum L.
+    A u n q u e puede presentarse en palmas mayores de
+    5 años, es más frecuente en palmas de 10 años y
+    más de edad.
+    La enfermedad ha sido registrada en la mayoría de
+    los países de la América Latina: Colombia, Ecua-
+    dor, Venezuela, Costa Rica, etc. En muchos casos
+    ha permanecido desapercibida por su desconoci-
+    miento, en áreas nuevas del cultivo. En cocotero,
+    el anillo rojo se ha considerado como una enferme-
+    dad endémica en latinoamérica.
+    Por lo menos, dos tipos de síntomas externos ca-
+    racterizan el anillo marrón de la palma africana:
+    uno que podría denominarse " c l á s i c o " y de carác-
+    ter severo, y o t r o "asociado con la hoja pequeña",
+    de efecto menos espectacular, aunque ambos de
+    carácter irreversible y generalmente m o r t a l .
+    En el primer caso, de síntomas "clásicos", éstos se
+    manifiestan inicialmente por una compactación
+    anormal de las flechas y hojas jóvenes de la corona,
+    en su base. Las hojas son erectas y toman una colo-
+    ración verde-amarillenta. Esta decoloración avanza
+    hacia las hojas inferiores, las cuales se tornan de
+    color bronceado y al final se secan. Los pecíolos de
+    sus bases se quiebran, las hojas de desgajan, que-
+    dando adheridas al tronco. Los racimos formados
+    abortan, sus frutos se secan y las inflorescencias
+    abortan, tan p r o n t o se presentan los primeros sín-
+    tomas.
+    Sin embargo, los síntomas característicos de la en-
+    fermedad son de carácter histológico. Al hacer un
+    corte transversal del t r o n c o , se observa una zona
+    circular de tejido color marrón, casi negro, de unos
+    7 a 8 cms. de la periferia, y de 3 a 5 cms. de ancho.
+    A veces la zona decolorada de color marrón es d i f u -
+    sa y avanza hacia el centro del t r o n c o . El anillo
+    marrón puede ser c o n t i n u o a lo largo del estipe,
+    disminuyendo en diámetro en su parte terminal, o
+    solo puede avanzar hasta unos pocos metros, luego
+    interrumpirse para luego aparecer en otras zonas
+    del tronco.
+    5.6. Anillo marrónCon frecuencia se observan larvas, pupas y adultos
+
+BR:
+  title: Anillo marron
+  desc: |-
+    El anillo marrón de la palma aceitera, al igual que
+    el anillo rojo del cocotero, es causado por el nemá-
+    todo
+    Radinaphelenchus
+    cocophillus
+    (Cob.
+    y
+    Goodey), c u y o agente vector principal es el cuca-
+    rrón picudo o gualpa Rhynchophorus palmarum L.
+    A u n q u e puede presentarse en palmas mayores de
+    5 años, es más frecuente en palmas de 10 años y
+    más de edad.
+    La enfermedad ha sido registrada en la mayoría de
+    los países de la América Latina: Colombia, Ecua-
+    dor, Venezuela, Costa Rica, etc. En muchos casos
+    ha permanecido desapercibida por su desconoci-
+    miento, en áreas nuevas del cultivo. En cocotero,
+    el anillo rojo se ha considerado como una enferme-
+    dad endémica en latinoamérica.
+    Por lo menos, dos tipos de síntomas externos ca-
+    racterizan el anillo marrón de la palma africana:
+    uno que podría denominarse " c l á s i c o " y de carác-
+    ter severo, y o t r o "asociado con la hoja pequeña",
+    de efecto menos espectacular, aunque ambos de
+    carácter irreversible y generalmente m o r t a l .
+    En el primer caso, de síntomas "clásicos", éstos se
+
+BS:
+  title: Pudrición de la parte superior del tronco
+  desc: |-
+    Solo se ha observado ocasionalmente en Colombia
+    en palmas de más de 10 años. El primer síntoma
+    se manifiesta mediante la aparición sobre la base de
+    los pecíolos, a cierta altura del t r o n c o , de las
+    fructificaciones de los hongos invasores: Fomes sp. y Ga-
+    noderma sp. El tronco se quiebra a una altura apro-
+    ximada de 2 metros del suelo. En corte transversal
+    del t r o n c o a esta altura, se observa una pudrición
+    que abarca un 60 a 80°/o de su superficie. Las hojas
+    se amarillan y las inferiores pueden secarse y desga-
+    jarse, quedando suspendidas en el t r o n c o .
+    El avance de la enfermedad es muy lento. Las fruc-
+    tificaciones se forman después de 1-3 años de ini-
+    ciada la infección.
+    Se recomienda la cirugía de las palmas en los pri-
+    meros estados de infección, cubriendo los tejidos
+    expuestos con un fungicida p r o t e c t o r y una pasta
+    cicatrizante. Las palmas muertas deben destruirse
+    "in situ".
